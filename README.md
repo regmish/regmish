@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img style="visibility: hidden;" src="https://api.regmi.de/favicon.ico" alt="api" />
 <!--
 **regmish/regmish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
